@@ -16,7 +16,7 @@ public class StudentManager {
             System.out.println("Wrong parameter");
             return;
         }
-        else if(s.getGrade() < 0 || s.getGrade()> 10){
+        else if(s.getGrade() < 0 || s.getGrade()> 100){
             System.out.println("Wrong Parameters for Grade");
             return;
         }
