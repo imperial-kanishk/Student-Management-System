@@ -1,0 +1,3 @@
+112,Rishabh,29,7.9,DS|SE|Maths|AI
+2,Kshayarsha,28,8.7,Science|History|AI|Vedic History
+3,Brihadbala,29,9.7,Thermodynamics|Space engine lab|Hydrology|Aviation
