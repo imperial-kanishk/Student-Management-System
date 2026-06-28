@@ -1,5 +1,5 @@
 FILE ANALYSIS REPORT
 --------------------
-Lines: 4
-Words: 24
-Characters: 151
+Lines: 23
+Words: 245
+Characters: 1797
